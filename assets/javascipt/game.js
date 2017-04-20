@@ -38,7 +38,7 @@ alert("You won!");
   $('#numberWins').text(wins);
   reset();
 }
-//addes the losses to the userTotal
+//adds the losses to the userTotal
 function loser(){
 alert ("You lose!");
   losses++;
